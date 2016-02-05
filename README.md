@@ -1,6 +1,10 @@
 # Tardis-X
 documentation for Tardis-X project
 
+## Contents
+0. How To
+  0. [Rules](how-to/rules.md)
+
 ### What is Project TARDIS?
 
 The main IDEA of this project is to create useful tools to control all who attend DevFests and make more fun for visitors.
