@@ -4,6 +4,7 @@ documentation for Tardis-X project
 ## Contents
 0. How To
   0. [Rules](how-to/rules.md)
+1. [Schedule Structure](schedule/structure.md)
 
 ### What is Project TARDIS?
 
